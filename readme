@@ -1,0 +1,8 @@
+1. Database design and tables structures saved in checkout.sql file
+	Created 2 tables 1 for master products another is for special_offers
+2. Created a 2 class 
+	1. for DB connection file config/database.php
+	2. for DB transaction model file Classes/Crud.php
+
+3. Added boostrap CDN url
+4. cart details will list out in the same index page on right section of the page
